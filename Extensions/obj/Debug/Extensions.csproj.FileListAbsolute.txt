@@ -1,0 +1,5 @@
+C:\Data\code\Extensions\Extensions\bin\Debug\Extensions.exe.config
+C:\Data\code\Extensions\Extensions\bin\Debug\Extensions.exe
+C:\Data\code\Extensions\Extensions\bin\Debug\Extensions.pdb
+C:\Data\code\Extensions\Extensions\obj\Debug\Extensions.exe
+C:\Data\code\Extensions\Extensions\obj\Debug\Extensions.pdb
